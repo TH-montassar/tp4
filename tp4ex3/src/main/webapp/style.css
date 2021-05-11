@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    background-image: url(a.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family:'Times New Roman', Times, serif;
+
+}
+ul{
+    margin-bottom: 50px;
+    
+}
+.label{
+    font-size: 19px;
+    color: White;
+    font-weight: normal;
+}
+.form-control{
+    background:transparent;
+    border-radius: 1px;
+    border:0px;
+    border-bottom: 1px solid #f44c89;
+    margin-bottom:30px;
+    font-size:20px;
+    color: White;
+    padding:5px;
+}
+.btn-success{
+    background: #0e6806;
+}
+.btn-warning{
+    background:rgb(158, 158, 0)
+}
